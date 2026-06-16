@@ -18,7 +18,7 @@ Link do vídeo:
 
 ## Kanban
 Link do quadro Kanban:
-
+https://app.notion.com/p/347265df85fc808ca61fcae515241da7?v=347265df85fc80c9ad80000cd0841ad6
 
 ## Disciplinas
 Pensamento Computacional e Automação com Python
