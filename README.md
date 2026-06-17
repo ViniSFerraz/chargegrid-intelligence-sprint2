@@ -13,8 +13,7 @@ Vinícius Souza Ferraz
 
 ## Vídeo Demonstrativo
 Link do vídeo:
-
-
+https://youtu.be/wdzEH_GDxQQ
 
 ## Kanban
 Link do quadro Kanban:
